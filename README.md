@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![tibrn github stats](https://github-readme-stats.vercel.app/api?username=sanjsingh07&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117)](https://github.com/tibrn?tab=repositories)
-[![tibrn github repos](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjsingh07&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117)](https://github.com/tibrn?tab=repositories)
+[![tibrn github stats](https://github-readme-stats.vercel.app/api?username=sanjsingh07&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117)](https://github.com/sanjsingh07?tab=repositories)
+[![tibrn github repos](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjsingh07&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117)](https://github.com/sanjsingh07?tab=repositories)
