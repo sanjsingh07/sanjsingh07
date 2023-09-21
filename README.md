@@ -5,7 +5,7 @@ I’m Sanjay Singh, a Blockchain/Backend developer living in India who loves tec
 
 #### 👨🏻‍💻  I’m currently working on
 
-- Blockchain architecture and security practices (Ethereum, Stellar and Hyperledger).
+- Blockchain architecture and security practices (Ethereum, Solana, Polygon Edge/Supernet/AppChain, Stellar and Hyperledger).
 - Smart Contracts (Solidity, Web3.js, Ethers.js).
 - Full Stack Development (TypeScript, JavaScript, NodeJS, Golang, Rust, NestJS, NextJS, React, Postgres, Express and etc).
 - Design patterns for blockchain (Secure Ether Transfer, Oracle, Proxy, among others).
