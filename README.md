@@ -13,7 +13,7 @@ I’m Sanjay Singh, a Blockchain/Backend developer living in India who loves tec
 
 Programming languages I primarily code in:
 
-- Open Source Contributions
+- ### Open Source Contributions
   - [![Solana-commits][Solana-commits]](<https://github.com/solana-labs/solana/pull/33128>)
   - [![Solana-Program-Library-commits][Solana-Program-Library-commits]](<https://github.com/solana-labs/solana-program-library/pull/4810>)
   - [![Stellar-commits][Stellar-commits]](https://github.com/stellar/kelp/pull/703)
