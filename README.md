@@ -14,8 +14,8 @@ I’m Sanjay Singh, a Blockchain/Backend developer living in India who loves tec
 Programming languages I primarily code in:
 
 - Rust
-  - [![Solana-commits][Solana-commits]](<https://github.com/solana-labs/solana-program-library/pull/4810>)
-  - [![Solana-Program-Library-commits][Solana-Program-Library-commits]](<https://github.com/solana-labs/solana/pull/33128>)
+  - [![Solana-commits][Solana-commits]](<https://github.com/solana-labs/solana/pull/33128>)
+  - [![Solana-Program-Library-commits][Solana-Program-Library-commits]](<https://github.com/solana-labs/solana-program-library/pull/4810>)
   - [![Stellar-commits][Stellar-commits]](https://github.com/stellar/kelp/pull/703)
   - [![Polygon-Edge-Doc-commits][Polygon-Edge-Doc-commits]](https://github.com/0xPolygon/wiki/pull/113)
   - [![Substrate-Doc-commits][Substrate-Doc-commits]](https://github.com/substrate-developer-hub/substrate-how-to-guides/pull/66)
