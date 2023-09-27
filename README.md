@@ -11,8 +11,6 @@ I’m Sanjay Singh, a Blockchain/Backend developer living in India who loves tec
 - Design patterns for blockchain (Secure Ether Transfer, Oracle, Proxy, among others).
 [![tibrn github stats](https://github-readme-stats.vercel.app/api?username=sanjsingh07&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117)](https://github.com/sanjsingh07?tab=repositories)[![tibrn github repos](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjsingh07&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117)](https://github.com/sanjsingh07?tab=repositories)
 
-Programming languages I primarily code in:
-
 - ### Open Source Contributions
   - [![Solana-commits][Solana-commits]](<https://github.com/solana-labs/solana/pull/33128>)
   - [![Solana-Program-Library-commits][Solana-Program-Library-commits]](<https://github.com/solana-labs/solana-program-library/pull/4810>)
