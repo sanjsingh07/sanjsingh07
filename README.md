@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I’m Sanjay Singh, a Blockchain/Backend developer living in India who loves tech and innovation. I'm interested in utilizing my analytical and problem-solving skills by designing and implementing decentralized applications (dApps).
+I’m Sanjay Singh, a Blockchain/Backend developer. I'm interested in utilizing my analytical and problem-solving skills by designing and implementing decentralized applications.
 
 #### 👨🏻‍💻  I’m currently working on
 
